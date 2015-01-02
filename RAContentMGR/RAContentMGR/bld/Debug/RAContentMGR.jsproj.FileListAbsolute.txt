@@ -1,0 +1,13 @@
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bin\Debug\resources.pri
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bin\Debug\AppxManifest.xml
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bin\Debug\RAContentMGR.build.appxrecipe
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\priconfig.xml.intermediate
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\layout.resfiles.intermediate
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\resources.resfiles.intermediate
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\pri.resfiles.intermediate
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\priconfig.xml
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\layout.resfiles
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\resources.resfiles
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\pri.resfiles
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\LanguageQualifiers.txt
+c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bld\Debug\ProjectArchitectures.txt

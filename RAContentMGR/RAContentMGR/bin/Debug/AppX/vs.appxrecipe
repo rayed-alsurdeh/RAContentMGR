@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LYAN-PC</Machine>
+    <WindowsUser>user1</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>586FDA97B822E63738782542B79F76F03ED932E34280B2C47DBEC33542789319</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0067ad15-5297-47d9-a681-5c7ea787764f_1.0.0.0_neutral__qq4gx75n1z6x6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0067ad15-5297-47d9-a681-5c7ea787764f_qq4gx75n1z6x6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0067ad15-5297-47d9-a681-5c7ea787764f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=user1</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-01T14:29:07.524</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-01-01T14:26:33.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\pages\items\items.css">
+      <PackagePath>pages\items\items.css</PackagePath>
+      <Modified>2015-01-01T14:26:33.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\pages\split\split.css">
+      <PackagePath>pages\split\split.css</PackagePath>
+      <Modified>2015-01-01T14:26:33.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-06-06T05:54:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-01-01T14:26:33.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2015-01-01T14:26:33.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\pages\items\items.js">
+      <PackagePath>pages\items\items.js</PackagePath>
+      <Modified>2015-01-01T14:26:33.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\pages\split\split.js">
+      <PackagePath>pages\split\split.js</PackagePath>
+      <Modified>2015-01-01T14:26:33.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\pages\items\items.html">
+      <PackagePath>pages\items\items.html</PackagePath>
+      <Modified>2015-01-01T14:26:33.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\pages\split\split.html">
+      <PackagePath>pages\split\split.html</PackagePath>
+      <Modified>2015-01-01T14:33:52.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-01-01T14:26:33.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\user1\documents\visual studio 2012\Projects\MVCAPPS\RAContentMGR\RAContentMGR\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-01T14:29:06.413</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
